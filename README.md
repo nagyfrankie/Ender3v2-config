@@ -1,2 +1,2 @@
 # Ender3v2-config
-My configuration file for https://github.com/Jyers/Marlin extensible UI firmware for Ender 3 v2.
+My configuration file for Creality Ender 3 v2.
