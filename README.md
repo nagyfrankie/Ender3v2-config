@@ -1,2 +1,2 @@
 # Ender3v2-config
-My configuration file for Creality Ender 3 v2.
+My configuration files for Creality Ender 3 v2.
